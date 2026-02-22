@@ -21,5 +21,5 @@
 
 ---
 
-[![Ilmanhdyt GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmanhdyt&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Ilmanhdyt GitHub Stats](https://streak-stats.demolab.com?user=ilmanhdyt&theme=tokyonight&locale=id&short_numbers=true&type=png)](https://git.io/streak-stats)
 [![Ilmanhdyt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilmanhdyt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
