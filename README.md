@@ -21,6 +21,6 @@
 
 ---
 
-[![Ilmanhdyt GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ilmanhdyt&show_icons=true&theme=tokyonight)
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ilmanhdyt&theme=tokyonight)
-[![Ilmanhdyt Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilmanhdyt&layout=compact&theme=tokyonight)
+![Ilmanhdyt GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ilmanhdyt&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ilmanhdyt&theme=tokyonight)
+![Ilmanhdyt Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilmanhdyt&layout=compact&theme=tokyonight)
